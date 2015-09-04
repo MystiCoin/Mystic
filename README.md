@@ -1,0 +1,2 @@
+# MystiCoin
+A Cryptocoin
